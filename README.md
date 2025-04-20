@@ -4,4 +4,5 @@ Repositories:
 - [Web API and FrontStore MVC repository](https://github.com/dogsteven/RookieShop)
 - [BackOffice ReactJS repository](https://github.com/dogsteven/RookieShop.BackOffice)
 
-Demo links:
+Report videos:
+- [Week 1](https://www.youtube.com/watch?v=r7vMyeL7TzA)
